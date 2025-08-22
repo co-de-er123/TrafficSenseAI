@@ -126,15 +126,12 @@ python src/main.py \
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details.
+Contributions are welcome! Please
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## 📧 Contact
-
-For questions or support, please open an issue or contact [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
