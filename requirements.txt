@@ -1,0 +1,21 @@
+# Core dependencies
+tensorflow>=2.10.0
+opencv-python>=4.6.0.66
+numpy>=1.22.0
+matplotlib>=3.5.0
+
+# AWS IoT
+boto3>=1.24.0
+AWSIoTPythonSDK>=1.5.0
+paho-mqtt>=1.6.1
+
+# Development
+dotenv>=0.20.0
+pytest>=7.1.2
+black>=22.3.0
+flake8>=4.0.1
+
+# Raspberry Pi specific (commented out for now)
+# RPi.GPIO>=0.7.1
+# picamera>=1.13
+# gpiozero>=1.6.2
