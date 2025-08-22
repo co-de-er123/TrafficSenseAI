@@ -126,7 +126,7 @@ python src/main.py \
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please
+Contributions are welcome!
 
 ## 📄 License
 
